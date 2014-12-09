@@ -1,0 +1,1 @@
+This project contains scripts offering rudimentary automation of installing and uninstalling MSI files to Windows machines.
